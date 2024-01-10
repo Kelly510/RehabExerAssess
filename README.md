@@ -1,6 +1,6 @@
 # Rehabilitation Exercise Assessment
 
-This repo is the official implementation of paper `A Skeleton-based Rehabilitation Exercise Assessment System with Rotation Invariance`. 
+This repository is the official implementation of the paper [A Skeleton-based Rehabilitation Exercise Assessment System with Rotation Invariance](https://ieeexplore.ieee.org/document/10144079), which has been published at TNSRE 2023. 
 
 ## Environment
 
